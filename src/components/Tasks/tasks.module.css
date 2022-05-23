@@ -4,4 +4,15 @@
 
 .empty {
   /* sample */
+  text-align: center;
 }
+
+.empty img{
+  margin-top:18px;
+  width:50px;
+}
+
+.empty h3{
+  margin-top: 0px;
+}
+
